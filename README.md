@@ -16,4 +16,4 @@ Run `npm run compile:watch` to make babel watch for changes in files. Make any c
 
 ## Quick Preview
 
-Open https://github.com/jainamshethhere/assignment1/public/ for a quick preview.
+Open https://jainamshethhere.github.io/assignment1/public/ for a quick preview.
